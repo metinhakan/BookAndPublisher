@@ -1,0 +1,5 @@
+ls
+cd BookAndPublisher
+dotnet ef migrations add initials
+dotnet ef database update        
+ 
